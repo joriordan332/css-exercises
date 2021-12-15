@@ -1,0 +1,19 @@
+/* style2.css */
+
+.odd-numbers {
+    background-color: rgba(211, 101, 101, 0.918);
+    font-family: verdana, sans-serif;
+
+}
+
+.font-size {
+    font-size: 24px
+
+}
+
+#id {
+
+    color: rgba(0, 0, 255, 0.815);
+    font-size: 24px;
+
+}
